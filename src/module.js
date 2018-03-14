@@ -19,6 +19,7 @@ import Slide from './modules/slide'
 import IndexList from './modules/index-list'
 import TimePicker from './modules/time-picker'
 import CascadePicker from './modules/cascade-picker'
+import DatePicker from './modules/date-picker'
 import Scroll from './modules/scroll'
 
 import Upload from './modules/upload'
@@ -42,6 +43,7 @@ export {
   Picker,
   TimePicker,
   CascadePicker,
+  DatePicker,
   Select,
   Dialog,
   Tip,
